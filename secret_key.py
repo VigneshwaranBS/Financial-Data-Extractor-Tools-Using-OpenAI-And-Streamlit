@@ -1,0 +1,1 @@
+openai_key="Paste your Openai key here"
